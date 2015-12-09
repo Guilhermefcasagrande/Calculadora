@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="botaoUm">1</string>
+    <string name="botaoDois">2</string>
+    <string name="botaoTres">3</string>
+    <string name="botaoQuatro">4</string>
+    <string name="botaoCinco">5</string>
+    <string name="botaoSeis">6</string>
+    <string name="botaoSete">7</string>
+    <string name="botaoOito">8</string>
+    <string name="botaoNove">9</string>
+    <string name="botaoZero">0</string>
+    <string name="igual">=</string>
+    <string name="mais">+</string>
+    <string name="vezes">x</string>
+    <string name="divisao">/</string>
+    <string name="menos">-</string>
+    <string name="limpar">C</string>
+    <string name="campoDeCalculo">  </string>
+    <string name="campoDeNumero"> 0  </string>
+    <string name="action_settings">Título</string>
+
+</resources>
